@@ -11,7 +11,7 @@ npm i wolfram-alpha-node
 # Example Usage
 ```js script
 const WolframAlphaAPI = require('wolfram-alpha-node');
-const waApi = WolframAlphaAPI("your mother");
+const waApi = WolframAlphaAPI("your app id");
 (async() => {
     try{
         console.log(await waApi.getFull('what is the parity of sine of x'))
