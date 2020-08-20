@@ -8,7 +8,7 @@ Email me at gpsanant@gmail.com if you have questions.
 npm i wolfram-alpha-node
 ```
 
-#Example Usage
+# Example Usage
 ```js script
 const WolframAlphaAPI = require('wolfram-alpha-node');
 const waApi = WolframAlphaAPI("your mother");
