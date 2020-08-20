@@ -22,3 +22,7 @@ const waApi = WolframAlphaAPI("your app id");
     }
 })()
 ```
+# Test
+```js script
+npm test "your app id"
+```
