@@ -1,0 +1,17 @@
+{
+  "name": "wolfram-alpha-node",
+  "version": "1.0.0",
+  "description": "A JavaScript library for interfacing with the Wolfram Alpha API",
+  "main": "waApi.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "wolfram",
+    "alpha",
+    "math"
+  ],
+  "author": "Gautham Anant <gpsanant@gmail.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
